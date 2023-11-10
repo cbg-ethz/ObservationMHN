@@ -35,3 +35,9 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Original data #
+#################
+data_preparation/genomic_information.txt
+data_preparation/data_clinical_sample.txt
+data_preparation/data_mutations_annotated_eventFilter.txt
